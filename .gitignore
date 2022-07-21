@@ -1,0 +1,9 @@
+
+*.vsidx
+*.lock
+*.db
+*.db-shm
+*.db-wal
+*.opendb
+*.filters
+*.user
